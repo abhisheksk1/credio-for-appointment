@@ -1,0 +1,107 @@
+.sidebar-card {
+    position: absolute;
+    width: 362px;
+    height: 964px;
+    left: 0px;
+    top: 116px;
+    background: #FFFFFF;
+    box-shadow: 10px 4px 10px rgba(0, 0, 0, 0.25);
+}
+
+.item1 {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    top: 63px;
+    left: 58px;
+}
+
+.sidebar-text {
+    margin-left: 25px;
+    padding-top: 5px;
+    width: 150px;
+    height: 28px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    color: black;
+}
+
+.sidebar-icon {
+    font-size: 33px;
+    color: black;
+}
+
+.item2 {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    top: 148px;
+    left: 58px;
+}
+
+.item3 {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    top: 233px;
+    left: 58px;
+}
+
+.item4 {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    top: 320px;
+    left: 58px;
+}
+
+.item5 {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    top: 404px;
+    left: 58px;
+}
+
+.item6 {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    top: 490px;
+    left: 58px;
+}
+
+.item7 {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    top: 577px;
+    left: 58px;
+}
+
+.item8 {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    top: 662px;
+    left: 58px;
+}
+
+.item9 {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    top: 745px;
+    left: 58px;
+}
+
+.item10 {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    top: 826px;
+    left: 58px;
+}

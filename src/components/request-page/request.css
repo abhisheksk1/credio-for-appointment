@@ -1,0 +1,174 @@
+.request-page {
+    width: 1558px;
+    height: 964px;
+    position: absolute;
+    left: 363px;
+    top: 116px;
+    background: #f5f6fa!important;
+}
+
+.request-header {
+    position: absolute;
+    left: 3%;
+    top: 2%;
+    display: flex;
+    flex-direction: row;
+}
+
+h1 {
+    width: 151px;
+    height: 42px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 42px;
+    color: #000000;
+}
+
+.filter {
+    font-weight: 500;
+    margin-top: 0.8rem;
+    margin-left: 0.6rem;
+    font-size: 18px;
+    line-height: 21px;
+    color: #000000;
+}
+
+.fa-sort-amount-down {
+    font-size: 24px;
+    margin-top: 0.8rem;
+    color: #861F41;
+}
+
+.request-detail {
+    display: flex;
+    flex-direction: row;
+    padding-left: 2rem;
+    padding-top: 5rem!important;
+}
+
+.customers {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    color: #861F41;
+}
+
+.staff {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    position: absolute;
+    left: 20%;
+    color: #861F41;
+}
+
+.service {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    position: absolute;
+    left: 30%;
+    color: #861F41;
+}
+
+.schedule {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    position: absolute;
+    left: 45%;
+    color: #861F41;
+}
+
+.price {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    position: absolute;
+    left: 62%;
+    color: #861F41;
+}
+
+.today {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    margin-left: 2rem;
+}
+
+.customer-detail {
+    display: flex;
+    flex-direction: row;
+}
+
+.request-detail-row {
+    display: flex;
+    flex-direction: row;
+    padding-left: 2rem;
+    padding-top: 1rem;
+}
+
+.customer-icon {
+    font-size: 45px;
+    color: #861F41;
+}
+
+.customer-detail {
+    display: flex;
+    flex-direction: column;
+    padding-left: 0.3rem;
+    padding-top: -0.3rem!important;
+}
+
+.staffImg {
+    position: absolute;
+    left: 20%;
+}
+
+.service-detail {
+    position: absolute;
+    left: 30%;
+    width: 146px;
+    height: 52px;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 26px;
+    color: #0E0D0D;
+}
+
+.schedule-detail {
+    position: absolute;
+    left: 45%;
+    display: flex;
+    flex-direction: column;
+}
+
+.price-detail {
+    position: absolute;
+    left: 62%;
+    display: flex;
+    flex-direction: column;
+}
+
+.confirmation-button {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    left: 75%;
+}
+
+.btn {
+    width: 150px;
+    border: 1px solid black;
+}
+
+.btn-light {
+    margin-left: 1rem;
+}
+
+.accepted {
+    width: 320px;
+    background: #861F41;
+    color: #fff;
+}

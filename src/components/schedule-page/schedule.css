@@ -1,0 +1,257 @@
+.schedule-page {
+    width: 1558px;
+    height: 964px;
+    position: absolute;
+    left: 363px;
+    top: 116px;
+    background: #f5f6fa!important;
+}
+
+.schedule-header {
+    position: absolute;
+    left: 3%;
+    top: 2%;
+    width: 355px;
+    height: 42px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 42px;
+    display: flex;
+    flex-direction: row;
+}
+
+.btn--light {
+    width: 147px;
+    height: 39px;
+    background: #F5F5F5;
+    border: 1px solid #C4C4C4;
+    box-sizing: border-box;
+    border-radius: 4px;
+    color: #861F41;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+}
+
+.btn--light:hover {
+    color: #861F41;
+}
+
+.month-card {
+    position: absolute;
+    left: 3%;
+    top: 8%;
+    width: 1099px;
+    height: 678px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px 5px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+}
+
+.h1 {
+    position: absolute;
+    width: 987.01px;
+    height: 0px;
+    left: 112px;
+    top: 122px;
+    border: 1px solid #C4C4C4;
+}
+
+.h2 {
+    position: absolute;
+    width: 987.01px;
+    height: 0px;
+    left: 112px;
+    top: 239px;
+    border: 1px solid #C4C4C4;
+}
+
+.h3 {
+    position: absolute;
+    width: 987.01px;
+    height: 0px;
+    left: 112px;
+    top: 354px;
+    border: 1px solid #C4C4C4;
+}
+
+.h4 {
+    position: absolute;
+    width: 987.01px;
+    height: 0px;
+    left: 112px;
+    top: 469px;
+    border: 1px solid #C4C4C4;
+}
+
+.h5 {
+    position: absolute;
+    width: 987.01px;
+    height: 0px;
+    left: 112px;
+    top: 584px;
+    border: 1px solid #C4C4C4;
+}
+
+.v1 {
+    position: absolute;
+    width: 0px;
+    height: 678px;
+    left: 258.5px;
+    top: 0px;
+    border: 1px solid #C4C4C4;
+}
+
+.v2 {
+    position: absolute;
+    width: 0px;
+    height: 678px;
+    left: 399px;
+    top: 0px;
+    border: 1px solid #C4C4C4;
+}
+
+.v3 {
+    position: absolute;
+    width: 0px;
+    height: 678px;
+    left: 539px;
+    top: 0px;
+    border: 1px solid #C4C4C4;
+}
+
+.v4 {
+    position: absolute;
+    width: 0px;
+    height: 678px;
+    left: 679px;
+    top: 0px;
+    border: 1px solid #C4C4C4;
+}
+
+.v5 {
+    position: absolute;
+    width: 0px;
+    height: 678px;
+    left: 819px;
+    top: 0px;
+    border: 1px solid #C4C4C4;
+}
+
+.v6 {
+    position: absolute;
+    width: 0px;
+    height: 678px;
+    left: 959px;
+    top: 0px;
+    border: 1px solid #C4C4C4;
+}
+
+.month-name {
+    position: absolute;
+    width: 160px;
+    height: 42px;
+    left: -20px;
+    top: 113px;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 42px;
+    color: #861F41;
+    transform: rotate(-90deg);
+}
+
+.day-name {
+    position: relative;
+    top: 5%;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 35px;
+    color: #0E0D0D;
+}
+
+.sun {
+    position: absolute;
+    left: 15%;
+}
+
+.mon {
+    position: absolute;
+    left: 27%;
+}
+
+.tue {
+    position: absolute;
+    left: 40%;
+}
+
+.wed {
+    position: absolute;
+    left: 52%;
+}
+
+.thu {
+    position: absolute;
+    left: 65%;
+}
+
+.fri {
+    position: absolute;
+    left: 80%;
+}
+
+.sat {
+    position: absolute;
+    left: 92%;
+}
+
+.date-1-7 {
+    position: relative;
+    top: 22%;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 35px;
+    color: #0E0D0D;
+}
+
+.date-8-14 {
+    position: relative;
+    top: 40%;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 35px;
+    color: #0E0D0D;
+}
+
+.date-15-21 {
+    position: relative;
+    top: 58%;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 35px;
+    color: #0E0D0D;
+}
+
+.date-22-28 {
+    position: relative;
+    top: 75%;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 35px;
+    color: #0E0D0D;
+}
+
+.date-29-31 {
+    position: relative;
+    top: 92%;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 35px;
+    color: #0E0D0D;
+}
+
+.schedule-rightbar {
+    position: absolute;
+    left: 67%;
+}

@@ -1,0 +1,248 @@
+.checkout-page {
+    width: 1558px;
+    height: 964px;
+    position: absolute;
+    left: 363px;
+    top: 116px;
+    background: #f5f6fa!important;
+}
+
+.checkout-header {
+    position: absolute;
+    left: 3%;
+    top: 2%;
+    width: 355px;
+    height: 42px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 42px;
+}
+
+.outer-card {
+    position: absolute;
+    left: 3%;
+    top: 8%;
+    width: 646px;
+    height: 801px;
+    background: #861F41;
+    border-radius: 10px;
+}
+
+.inner-card {
+    position: absolute;
+    width: 361px;
+    height: 602px;
+    left: 141px;
+    top: 91px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px 5px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
+.card-header {
+    position: absolute;
+    width: 112px;
+    height: 42px;
+    left: 30px;
+    top: 23px;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 42px;
+    color: #000000;
+}
+
+.user-detail {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    left: 30px;
+    top: 96px;
+}
+
+.fa-user {
+    color: #34CE96;
+    font-size: 50px;
+}
+
+.username {
+    display: flex;
+    flex-direction: column;
+    padding-left: 1rem;
+}
+
+.phone {
+    font-size: 22px;
+    line-height: 26px;
+    color: #34CE96;
+}
+
+.date-time {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    left: 30px;
+    top: 205px;
+}
+
+.date {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    color: #000000;
+}
+
+.current-time {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    color: #861F41;
+    padding-left: 5rem;
+}
+
+.purpose {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    left: 30px;
+    top: 258px;
+}
+
+.done {
+    position: absolute;
+    width: 56px;
+    height: 28px;
+    left: 32px;
+    top: 306px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: #34CE96;
+}
+
+.assigned {
+    position: absolute;
+    width: 133px;
+    height: 28px;
+    left: 30px;
+    top: 404px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+}
+
+.assigned-detail {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    left: 30px;
+    top: 450px;
+}
+
+.assigned-person-name {
+    display: flex;
+    flex-direction: column;
+    padding-left: 1rem;
+}
+
+.rightbar {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 8%;
+    left: 50%;
+}
+
+.payment-header {
+    width: 300px;
+    height: 42px;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 42px;
+    color: #000000
+}
+
+.payment-footer {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+    color: #959393;
+}
+
+.label {
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 25px;
+    color: #861F41;
+}
+
+.form-control {
+    height: 64px;
+    background: #F5F5F5;
+    border: 1px solid #363636;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+.subtotal-detail {
+    display: flex;
+    flex-direction: row;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+    margin-top: 3rem;
+}
+
+.subtotal-amount {
+    margin-left: 18rem;
+}
+
+.discount-detail {
+    display: flex;
+    flex-direction: row;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+    margin-top: 1rem;
+}
+
+.total-detail {
+    display: flex;
+    flex-direction: row;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+    margin-top: 1rem;
+}
+
+.pay-now {
+    width: 500px!important;
+    height: 64px;
+    background: #861F41;
+    border-radius: 10px;
+    margin-top: 2rem;
+    margin-left: -0.5rem;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 25px;
+    color: #FFFFFF;
+}
+
+.button-footer {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    color: #959393;
+    margin-top: 1rem;
+    margin-left: 4rem;
+}
